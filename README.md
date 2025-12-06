@@ -50,10 +50,11 @@ If you find this work is useful for your research, please cite our [paper](https
   author={Liu, Xiaohan and Ma, Lei and Guo, Jianwei and Yan, Dong-Ming},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={Parallel Computation of 3D Clipped Voronoi Diagrams}, 
+  volume={28},
+  number={2},
+  pages={1363--1372},
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},
+  publisher={IEEE}
 }
 ```
 
